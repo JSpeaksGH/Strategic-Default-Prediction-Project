@@ -106,7 +106,7 @@ Based on the model's performance, I recommend the following actions to minimize 
 
 ## Project Deliverables
 
-- **R Analysis Script:** Complete code covering data preparation, PCA, logistic regression, and model evaluation.
-- **Analytical Presentation (PDF):** Visual summary of the project methodology, findings, and business recommendations.
+- **R Analysis Script:** [View R Code](Cred_Def_Prediction.R) — Complete code covering data preparation, PCA, logistic regression, and model evaluation.
+- **Analytical Presentation (PDF):** [View Presentation](Analytic_Solution_Presentation.pdf) — Visual summary of the project methodology, findings, and business recommendations.
 
 **Note:** The full analytical report is available upon request for professional evaluation.
